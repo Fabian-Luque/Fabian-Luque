@@ -18,6 +18,10 @@
 <img src="https://d1q6f0aelx0por.cloudfront.net/product-logos/644d2f15-c5db-4731-a353-ace6235841fa-registry.png" alt="VS" width="30" height="30" align="left"/> 
 <img src="https://es.ourcodeworld.com/recursos-publicos/galeria/categorielogo-5c96c3a2d37d6.png" alt="VS" width="30" height="30" /> 
 
+1. [RESUME EN](https://srv-file12.gofile.io/downloadStore/srv-store1/hDfqxd/EN-CURRICULUM-2020.pdf "RESUME ENGLISH")
+2. [RESUME ES](https://srv-file12.gofile.io/downloadStore/srv-store1/hDfqxd/CURRICULUM-2020.pdf "CURRICULUM ESPAÑOL")
+
+
 <img 
   align="left"
   alt="Stats"

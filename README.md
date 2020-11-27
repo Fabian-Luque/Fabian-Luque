@@ -3,10 +3,14 @@
 # I'm Father and Developer Full-Stack!
 
 - 🔭 I’m currently working on Global Conexus
-- 🌱 I’m currently learning Inglish & Flutter
+- 🌱 I’m currently learning Inglish & Flutter ✅
 - 👯 I'm looking to collaborate on open source projects
-- ⚡ 2020 - 2021 Goals. learn Inglish & Flutter =)
+- ⚡ 2020 - 2021 Goals. learn Inglish & Flutter ✅ =)
 - 👾 Skills - Angular - PHP - Node.Js - TypeScript.
+### Courses
+
+* [ ] Flutter Profesional
+* [ ] Django  Profesional
 
 ### Languages and Tools
 

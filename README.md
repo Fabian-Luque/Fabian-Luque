@@ -9,8 +9,8 @@
 - 👾 Skills - Angular - PHP - Node.Js - TypeScript.
 ### Courses
 
-- ✅ Flutter Profesional
-- 📝 Django  Profesional
+- ✅ Flutter Professional
+- 📝 Django  Professional
 
 ### Languages and Tools
 

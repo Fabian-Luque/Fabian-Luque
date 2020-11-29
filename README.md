@@ -32,8 +32,13 @@
   alt="Stats"
   src="https://github-readme-stats.vercel.app/api?username=Fabian-Luque&&Show_icons=true&hide_border=true"
 />
-
-
+<img 
+  align="left"
+  width="300" 
+  height="200"
+  src="https://udemy-certificate.s3.amazonaws.com/image/UC-de4ec191-bf99-4f22-89d9-dae6ed3177d5.jpg"
+/>
+   
 <img 
   align="left"
    width="300" 

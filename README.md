@@ -36,6 +36,7 @@
 
 <img 
   align="left"
-   width="300" height="200"
-  src="https://udemy-certificate.s3.amazonaws.com/image/UC-de4ec191-bf99-4f22-89d9-dae6ed3177d5.jpg?v=1606227474000"
+   width="300" 
+   height="200"
+  src="https://udemy-certificate.s3.amazonaws.com/image/UC-ab2f7751-f941-475a-affe-1497855325b2.jpg"
 />

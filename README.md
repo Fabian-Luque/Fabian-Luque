@@ -2,10 +2,10 @@
 
 # I'm Father and Developer Full-Stack!
 
-- 🔭 I’m currently working on Global Conexus
+- 🔭 I’m currently working on Emenu
 - 🌱 I’m currently learning Inglish ✅
 - 👯 I'm looking to collaborate on open source projects
-- ⚡ 2020 - 2021 Goals. learn Inglish ✅ =)
+- ⚡ 2021 - 2021 Goals. learn Inglish ✅ =)
 - 👾 Skills - Angular - Python - Node.Js - TypeScript.
 ### Courses 
 

@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on Emenu
 - 🌱 I’m currently learning Inglish ✅
 - 👯 I'm looking to collaborate on open source projects
-- ⚡ 2021 - 2021 Goals. learn Inglish ✅ =)
+- ⚡ 2022 - 2023 Goals. learn Inglish ✅ =)
 - 👾 Skills - Angular - Python - Node.Js - TypeScript.
 ### Courses 
 

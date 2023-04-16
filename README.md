@@ -8,7 +8,6 @@ I'm Father and Sr Software Engineer!
 * 🖥️  See my portfolio at [My Portafolio Loop ?](http://github.com/Fabian-Luque)
 * ✉️  You can contact me at [fabianluque2014@gmail.com](mailto:fabianluque2014@gmail.com)
 * 🚀  I'm currently working on [Walmart - Chile]
-* 🧠  I'm learning English
 * 🤝  I'm open to collaborating on Python or Node.js Projects
 * ⚡  I do what must be done
 

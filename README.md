@@ -5,7 +5,6 @@ I'm Father and Sr Software Engineer!
 ------------------------------------
 
 * 🌍  I'm based in Temuco, Chile
-* 🖥️  See my portfolio at [My Portafolio Loop ?](http://github.com/Fabian-Luque)
 * ✉️  You can contact me at [fabianluque2014@gmail.com](mailto:fabianluque2014@gmail.com)
 * 🚀  I'm currently working on [Coca Cola (Koandina) - Chile]
 * 🤝  I'm open to collaborating on Python or Node.js Projects
